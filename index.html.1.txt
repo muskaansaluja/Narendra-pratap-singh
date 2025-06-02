@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Narendra Pratap Singh - Chairman of GlobalBirth Developers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+            background: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .instagram {
+            margin-top: 10px;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Narendra Pratap Singh</h1>
+        <h3>Chairman of GlobalBirth Developers</h3>
+        <p class="instagram">
+            Instagram: <a href="https://www.instagram.com/narendra1215?igsh=cmI5c2U3MjM3NGJ4" target="_blank" rel="noopener noreferrer">@narendra1215</a>
+        </p>
+        <hr />
+        <h2>About Me</h2>
+        <p>Hello, I’m Narendra, the founder of GlobalBirth Developers. When I started this journey, my vision was simple — to create spaces that are not just well-built, but also built on trust.</p>
+        <p>For me, real estate is not just a business; it’s a responsibility. Every project we undertake is driven by a commitment to transparency, quality, and long-term value for our clients. At GlobalBirth Developers, we don’t just deliver properties — we build lasting relationships.</p>
+    </div>
+</body>
+</html>
